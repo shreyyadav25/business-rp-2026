@@ -1,5 +1,5 @@
 scenario,mean_ai_coef,bias,std_dev
-baseline,2.786,-0.014,0.242
-endog_ai,2.767,-0.033,0.205
-endog_verif,2.789,-0.011,0.236
-meas_error,2.134,-0.666,0.197
+baseline,2.73,-0.07,0.869
+endogenous_ai,2.749,-0.051,0.929
+endogenous_verification,2.705,-0.095,0.787
+measurement_error,2.011,-0.789,0.727
