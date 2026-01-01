@@ -8,3 +8,13 @@ Outputs:
 - metadata/dgp_parameters.csv: true parameters used in the data-generating process
 
 All results are reproducible by running the notebook top-to-bottom.
+
+## Scope and Interpretation
+
+This repository accompanies a simulation-based study examining
+identification and measurement issues in estimating AI-induced changes
+in organizational hierarchies.
+
+All data are synthetic and generated from a transparent DGP.
+The goal is not to estimate real-world effects, but to evaluate
+econometric performance under plausible AI adoption processes.
